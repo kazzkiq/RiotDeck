@@ -1,0 +1,9 @@
+node_modules/
+admin/app/cache/**
+admin/public/css/**
+admin/public/js/**
+admin/public/temp/**
+application/app/cache/**
+application/public/css/**
+application/public/js/**
+application/public/temp/**
